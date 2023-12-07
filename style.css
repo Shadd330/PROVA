@@ -92,7 +92,7 @@ body.fotos #navegacao a#fotos
 body {
     margin: 0;
     overflow: hidden;
-    background: url('https://thelonepanda.files.wordpress.com/2015/07/tumblr_msjzlqmnfu1s94vaeo1_500.gif') no-repeat center center fixed; /* Substitua 'seu-arquivo.gif' pelo caminho do seu arquivo GIF */
+    background: url('https://thelonepanda.files.wordpress.com/2015/07/tumblr_msjzlqmnfu1s94vaeo1_500.gif') no-repeat center center fixed;
     background-size: 100%;
     background-color: black;
 }
